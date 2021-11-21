@@ -1,1 +1,3 @@
-"Hello, Nico"
+()=>{
+    console.log("hola mundo");
+}
